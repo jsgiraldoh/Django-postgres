@@ -140,7 +140,7 @@ Esta configuración está determinada por la imagen de Docker de [postgres](http
 
 En este punto, su aplicación Django debería estar ejecutándose en el puerto 8000 de su host Docker. En Docker Desktop para Mac y Docker Desktop para Windows, vaya a http://localhost:8000 en un navegador web para ver la página de bienvenida de Django.
 
-<img src="img/django.PNG" title="django" name="django"/><br>
+<img src="img/django.png" title="django" name="django"/><br>
 
 5. Enumere los contenedores en ejecución.
 
