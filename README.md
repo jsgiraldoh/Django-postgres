@@ -152,6 +152,8 @@ da3a09ce1c1d   django-postgres_web                     "python manage.py ru…" 
 9b62a081919d   postgres                                "docker-entrypoint.s…"   6 minutes ago       Up 4 seconds       5432/tcp                                                                                                   django-postgres_db_1
 ```
 
+[Aquí](https://github.com/jsgiraldoh/Django-postgres.git) se puede encontrar una aplicación de ejemplo que ejercita todos los aspectos que se discutieron.
+
 ## Referencia
 
 https://docs.docker.com/compose/django/
