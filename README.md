@@ -170,3 +170,5 @@ kubectl apply -f 'archivo'
 ```
 kubectl port-forward --address 0.0.0.0 svc/my-service 8000 --namespace default
 ```
+
+Nota: Es importante tener en cuenta, que debe crear un directorio /code, donde se encuentren los archivos generados en el espacio de trabajo (composeexample/, requirements.txt, manage.py). Para que el cluster pueda montar bien el volumen y todo pueda funcionar correctamente.
