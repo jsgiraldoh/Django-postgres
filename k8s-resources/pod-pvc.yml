@@ -51,7 +51,7 @@ spec:
             - runserver
             - 0.0.0.0:8000
           name: python
-          image: infraestructuratest/django-postgres_web
+          image: jsgiraldoh/django-postgres_web
           ports:
             - containerPort: 8000
           volumeMounts:
